@@ -1,0 +1,3234 @@
+.travel-agency-landing-page {
+    background: #FEFCFB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .hero-section {
+    background: #FEFCFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 120px;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content {
+    border-radius: 5px;
+    position: relative;
+    margin: 96px 36.2px 3px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  
+  .get-started-your-exciting-journey-with-us {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 1.333;
+  }
+  
+  .get-started-your-exciting-journey-with-us-sub4 {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 1.333;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .get-started-your-exciting-journey-with-us-sub5 {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 1.333;
+  }
+  
+  .travel-agency-landing-page .get-started-your-exciting-journey-with-us {
+    margin-bottom: 86px;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 1.094;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .ateam-of-experienced-tourism-professionals-will-provide-you-with-the-best-advice-and-tips-for-your-desire-place {
+    position: absolute;
+    left: 0px;
+    bottom: 124px;
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-20-px-font-family, 'Poppins');
+    font-weight: var(--paragraph-20-px-font-weight, 400);
+    font-size: var(--paragraph-20-px-font-size, 20px);
+    line-height: var(--paragraph-20-px-line-height, 2);
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .discover-btn {
+    border-radius: 5px;
+    border: 1px solid var(--primary-o, #FA7436);
+    background: #FFFFFF;
+    display: flex;
+    align-self: flex-start;
+    padding: 13px 0.2px 13px 0;
+    width: 178px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .discover-now {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.778;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .nav-menu {
+    background: #FEFCFB;
+    position: relative;
+    margin-right: 156px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 32px 0;
+    width: 1170px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .menu {
+    margin: 13px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 386px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .home {
+    margin-right: 12px;
+    width: 48px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .about {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .destination {
+    overflow-wrap: break-word;
+    font-family: var(--title-font-family, 'Poppins');
+    font-weight: var(--title-font-weight, 400);
+    font-size: var(--title-font-size, 16px);
+    line-height: var(--title-line-height, 1.5);
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .tour {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .blog {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .login {
+    margin: 13px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .login-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    color: #FD8D3A;
+  }
+  
+  .travel-agency-landing-page .sign-up {
+    box-shadow: 0px 8px 16px 0px rgba(250, 116, 54, 0.24);
+    border-radius: 5px;
+    background: #FA7436;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 13px 0 13px 1px;
+    width: 160px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .sign-up-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  
+  .travel-agency-landing-page .logo {
+    margin: 13px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .trabook {
+    margin-right: 10.6px;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    line-height: 1;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .vector {
+    margin: 3px 0 2px 0;
+    width: 19px;
+    height: 19px;
+  }
+  
+  .travel-agency-landing-page .image {
+    position: relative;
+    display: flex;
+    padding: 55px 166px 0 0;
+    width: 785px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .element {
+    opacity: 0.3;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 0 0px;
+    width: 785px;
+    height: 191px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-1 {
+    width: 785px;
+    height: 191px;
+  }
+  
+  .travel-agency-landing-page .group-1000003524 {
+    position: relative;
+    display: flex;
+    padding: 210px 0 238px 0;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .ellipse-4 {
+    position: absolute;
+    left: 66%;
+    top: 274px;
+    translate: -50% 0;
+    width: 500px;
+    height: 500px;
+  }
+  
+  .travel-agency-landing-page .tourist-with-thumb-up-1-removebg-1 {
+    background: url('../assets/images/tourist_with_thumb_up_1_removebg_1.png');
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 450px;
+    height: 530px;
+  }
+  
+  .travel-agency-landing-page .card-1 {
+    box-shadow: -8px 8px 40px 0px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: absolute;
+    left: -46px;
+    top: -14px;
+    display: flex;
+    flex-direction: row;
+    padding: 9px 3.9px 9px 16px;
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  
+  .travel-agency-landing-page .best-tour-awards {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--color-b-1, #444444);
+  }
+  
+  .travel-agency-landing-page .trophy-removebg-preview-1 {
+    background: url('../assets/images/trophy_removebg_preview_1.png') 50% / cover no-repeat;
+    margin: 8px 10px 8px 0;
+    width: 58px;
+    height: 41px;
+  }
+  
+  .travel-agency-landing-page .card-2 {
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 0 0 15px;
+    width: 173px;
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  
+  .travel-agency-landing-page .rectangle-43271 {
+    box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 173px;
+    height: 74px;
+  }
+  
+  .travel-agency-landing-page .explore {
+    margin-bottom: 2px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: #444444;
+  }
+  
+  .travel-agency-landing-page .every-cornar-of-the-world-with-us {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #666666;
+  }
+  
+  .travel-agency-landing-page .google-maps-1 {
+    border-radius: 10px;
+    background: url('../assets/images/google_maps_1.png') 50% / cover no-repeat;
+    position: relative;
+    margin: 13px 10px 29px 0;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .travel-agency-landing-page .card-3 {
+    box-shadow: -8px 8px 40px 0px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: absolute;
+    left: 80px;
+    bottom: 35px;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 18.2px 12px 19px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-1 {
+    border-radius: 10px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 6px 10.2px 6px 0;
+    width: 58px;
+    height: 44px;
+  }
+  
+  .travel-agency-landing-page .group-1000003526 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .customer-reviewd {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    color: #666666;
+  }
+  
+  .travel-agency-landing-page .k {
+    margin: 0 0.1px 2px 0.1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: #444444;
+  }
+  
+  .travel-agency-landing-page .search-bar {
+    box-shadow: 0px 2px 80px 2px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 155px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 32px 24px;
+    width: 841px;
+    box-sizing: border-box;
+    margin-top: 90px;
+  }
+  
+  .travel-agency-landing-page .explore-btn {
+    box-shadow: 0px 8px 16px 0px rgba(250, 116, 54, 0.16);
+    border-radius: 5px;
+    background: var(--primary-o, #FA7436);
+    display: flex;
+    justify-content: center;
+    padding: 14px 0.1px 14px 0;
+    width: 165px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .explore-now {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.778;
+    color: #FFFFFF;
+  }
+  
+  .travel-agency-landing-page .content-1 {
+    margin: 4px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 528px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-1000003533 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .where-are-you-going {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .group-1000003530 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .location {
+    margin-right: 5.5px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .vector-4855 {
+    margin: 9.5px 0;
+    width: 10px;
+    height: 5px;
+  }
+  
+  .travel-agency-landing-page .group-1000003534 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-1000003531 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .date {
+    margin-right: 6px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .vector-48551 {
+    margin: 9.5px 0;
+    width: 10px;
+    height: 5px;
+  }
+  
+  .travel-agency-landing-page .when-you-will-go {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .group-1000003535 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .number-of-guest {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .group-1000003532 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .guest {
+    margin-right: 5.9px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .vector-48552 {
+    margin: 9.5px 0;
+    width: 10px;
+    height: 5px;
+  }
+  
+  .travel-agency-landing-page .things-your-need {
+    background: #F7F8FC;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 120px 0;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-2 {
+    margin-right: 66.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  .things-you-need-to-do {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.333;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .things-you-need-to-do-sub3 {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.333;
+  }
+  
+  .travel-agency-landing-page .things-you-need-to-do {
+    margin-bottom: 14px;
+    overflow-wrap: break-word;
+    font-family: var(--section-title-font-family, 'Volkhov');
+    font-weight: var(--section-title-font-weight, 700);
+    font-size: var(--section-title-font-size, 48px);
+    line-height: var(--section-title-line-height, 1.125);
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .we-ensure-that-youll-embark-on-aperfectly-planned-safe-vacation-at-aprice-you-can-afford {
+    margin: 0 23.2px 0 22.8px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-18-px-font-family, 'Poppins');
+    font-weight: var(--paragraph-18-px-font-weight, 400);
+    font-size: var(--paragraph-18-px-font-size, 18px);
+    line-height: var(--paragraph-18-px-line-height, 1.778);
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .sign-up-2 {
+    box-shadow: 14px 24px 72px 0px rgba(102, 102, 102, 0.1);
+    border-radius: 8px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+  }
+  
+  .travel-agency-landing-page .vector-4856 {
+    position: absolute;
+    top: 0.5px;
+    right: 0px;
+    width: 367px;
+    height: 274.5px;
+  }
+  
+  .travel-agency-landing-page .group {
+    position: relative;
+    margin: 0 228px 48px 0;
+    width: 48px;
+    height: 48px;
+  }
+  
+  .travel-agency-landing-page .sign-up-3 {
+    position: relative;
+    margin: 0 183.8px 16px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.417;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .completes-all-the-work-associated-with-planning-and-processing {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .money {
+    border-radius: 8px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+  }
+  
+  .travel-agency-landing-page .vector-48561 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 365.5px;
+    height: 273.5px;
+  }
+  
+  .travel-agency-landing-page .worth-of-money {
+    position: relative;
+    margin: 0 79.7px 16px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.417;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .after-successful-access-then-book-from-exclusive-deals-pricing {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-16-x-font-family, 'Poppins');
+    font-weight: var(--paragraph-16-x-font-weight, 400);
+    font-size: var(--paragraph-16-x-font-size, 16px);
+    line-height: var(--paragraph-16-x-line-height, 1.625);
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .group-1 {
+    position: relative;
+    margin: 0 225px 48px 0;
+    width: 46.6px;
+    height: 48px;
+  }
+  
+  .travel-agency-landing-page .travel {
+    border-radius: 8px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+  }
+  
+  .travel-agency-landing-page .vector-4857 {
+    position: absolute;
+    top: 5px;
+    right: 4px;
+    width: 361.5px;
+    height: 269px;
+  }
+  
+  .travel-agency-landing-page .exciting-travel {
+    position: relative;
+    margin: 0 83.6px 16px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.417;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .start-and-explore-awide-range-of-exciting-travel-experience {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .group-2 {
+    position: relative;
+    margin: 0 224.6px 48px 0;
+    width: 41.1px;
+    height: 48px;
+  }
+  
+  .travel-agency-landing-page .element-1 {
+    margin-bottom: 11.3px;
+    width: 179.9px;
+    height: 130.7px;
+  }
+  
+  .travel-agency-landing-page .exclusive-deals {
+    background: #FEFCFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 120px 0;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-3 {
+    margin: 0 26.7px 64px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .exclusive-deals-discounts {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.333;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .exclusive-deals-discounts {
+    margin-bottom: 14px;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.125;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .discover-our-fantastic-early-booking-discounts-start-planning-your-journey {
+    margin-left: 27.7px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-18-px-font-family, 'Poppins');
+    font-weight: var(--paragraph-18-px-font-weight, 400);
+    font-size: var(--paragraph-18-px-font-size, 18px);
+    line-height: var(--paragraph-18-px-line-height, 1.778);
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .card {
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: row;
+    width: 1170px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .card-11 {
+    border-radius: 8px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    background: #FEFCFB;
+    position: relative;
+    margin-right: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 32px;
+    width: 270px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .image-1 {
+    border-radius: 8px;
+    background: url('../assets/images/image_10.png') 50% / cover no-repeat;
+    margin-bottom: 32px;
+    width: 270px;
+    height: 290px;
+  }
+  
+  .travel-agency-landing-page .upper-content {
+    border-radius: 8px;
+    margin: 0 16.2px 18px 16.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-4 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .madrid {
+    overflow-wrap: break-word;
+    font-family: var(--title-24-px-font-family, 'Poppins');
+    font-weight: var(--title-24-px-font-weight, 500);
+    font-size: var(--title-24-px-font-size, 24px);
+    line-height: var(--title-24-px-line-height, 1.083);
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .content-5 {
+    border-radius: 8px;
+    margin: 1px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-11 {
+    border-radius: 8px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 4px 8.2px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .container {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .bottom-content {
+    margin: 0 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-6 {
+    margin: 1px 0 7px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-25 {
+    margin: 2px 8.4px 2px 0;
+    width: 12.6px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .spain {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-7 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-1000003540 {
+    border-radius: 8px;
+    background: #FFE7DB;
+    position: relative;
+    display: flex;
+    padding: 2px 5.3px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .group-1000003541 {
+    position: relative;
+    margin: 2px 16px 2px 0;
+    display: flex;
+    padding-right: 0.5px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-2 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 25px;
+    color: var(--color-off, #999999);
+  }
+  
+  .travel-agency-landing-page .line-5 {
+    background: #999999;
+    position: absolute;
+    right: 0px;
+    bottom: 11px;
+    width: 39px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .card-21 {
+    position: relative;
+    margin-right: 30px;
+    display: flex;
+    padding-left: 2px;
+    width: 272px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .image-2 {
+    border-radius: 10px 10px 0 0;
+    background: url('../assets/images/image_1.png');
+    margin-bottom: 32px;
+    width: 270px;
+    height: 290px;
+  }
+  
+  .travel-agency-landing-page .hover-effect {
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    left: 0px;
+    top: 2px;
+    display: flex;
+    padding-left: 4px;
+    width: 270px;
+    height: 290px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .book-now-btn {
+    border-radius: 8px;
+    background: var(--primary-o, #FA7436);
+    display: flex;
+    padding: 9px 0 9px 0.3px;
+    width: 132px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .book-now {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.778;
+    color: #FFFFFF;
+  }
+  
+  .travel-agency-landing-page .upper-content-1 {
+    border-radius: 10px;
+    margin: 0 16.3px 18px 16.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-8 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .firenze {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.083;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .content-9 {
+    border-radius: 10px;
+    margin: 3px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-12 {
+    border-radius: 10px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 2px 8.3px 2px 0;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .container-3 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: var(--paragraph, #666666);
+    border-bottom: 1px solid #9999998F
+  }
+  
+  .travel-agency-landing-page .footer-content {
+    margin: 0 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-10 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-1000003537 {
+    margin: 2px 8.2px 2px 0;
+    width: 12.6px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .italy {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-11 {
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-10000035401 {
+    border-radius: 4px;
+    background: #FFE7DB;
+    position: relative;
+    display: flex;
+    padding: 2px 6.1px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-4 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .group-10000035411 {
+    position: relative;
+    margin: 2px 16px 2px 0;
+    display: flex;
+    padding-right: 0.5px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-5 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .line-51 {
+    background: #666666;
+    position: absolute;
+    right: 0px;
+    bottom: 11px;
+    width: 39px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .card-31 {
+    border-radius: 8px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    background: #FEFCFB;
+    position: relative;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 32px;
+    width: 270px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .image-3 {
+    border-radius: 8px;
+    background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+    margin-bottom: 32px;
+    width: 270px;
+    height: 290px;
+  }
+  
+  .travel-agency-landing-page .upper-content-2 {
+    border-radius: 8px;
+    margin: 0 16.3px 18px 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-12 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .paris {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.083;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .contrent {
+    border-radius: 8px;
+    margin: 3px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-13 {
+    border-radius: 8px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 2px 8.3px 2px 0;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .container-6 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .footer-content-1 {
+    margin: 0 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-13 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-27 {
+    margin: 2px 8.1px 2px 0;
+    width: 12.6px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .france {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-14 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-10000035402 {
+    border-radius: 8px;
+    background: #FFE7DB;
+    position: relative;
+    display: flex;
+    padding: 2px 5.1px 2px 6.1px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-7 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .group-10000035412 {
+    position: relative;
+    margin: 2px 16px 2px 0;
+    display: flex;
+    padding-right: 0px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-8 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .line-52 {
+    background: #666666;
+    position: absolute;
+    right: 0px;
+    bottom: 11px;
+    width: 39px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .card-4 {
+    border-radius: 8px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    background: #FEFCFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 32px;
+    width: 270px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .image-4 {
+    border-radius: 8px;
+    background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+    margin-bottom: 32px;
+    width: 270px;
+    height: 290px;
+  }
+  
+  .travel-agency-landing-page .upper-content-3 {
+    border-radius: 8px;
+    margin: 0 16.2px 18px 16.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-15 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .london {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.083;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .content-16 {
+    border-radius: 8px;
+    margin: 3px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-14 {
+    border-radius: 8px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 2px 8.2px 2px 0;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .container-9 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .footer-content-2 {
+    margin: 0 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 238px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-17 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-28 {
+    margin: 2px 8.3px 2px 0;
+    width: 12.6px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .uk {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-18 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-10000035403 {
+    border-radius: 8px;
+    background: #FFE7DB;
+    position: relative;
+    display: flex;
+    padding: 2px 5.3px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-10 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .group-10000035413 {
+    position: relative;
+    margin: 2px 16px 2px 0;
+    display: flex;
+    padding-right: 0.5px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-11 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .line-53 {
+    background: #666666;
+    position: absolute;
+    right: 0px;
+    bottom: 11px;
+    width: 39px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .slider-btn {
+    margin-right: 8px;
+    display: flex;
+    flex-direction: row;
+    width: 104px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .btn-2 {
+    border-radius: 20px;
+    background: #FA7436;
+    position: relative;
+    display: flex;
+    padding: 20px 12px 18px 12px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .arrow-3 {
+    background: var(--primary-o, #FFFFFF);
+    width: 16px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .btn-1 {
+    border-radius: 20px;
+    background: #FEFCFB;
+    position: relative;
+    margin-right: 24px;
+    display: flex;
+    padding: 20px 12px 18px 12px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .arrow-31 {
+    background: rgba(153, 153, 153, 0.5);
+    width: 16px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .vacation-plan {
+    background: #FEFCFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 120px 0;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .element-2 {
+    position: absolute;
+    top: 120px;
+    right: 563.5px;
+    width: 105.5px;
+    height: 81px;
+  }
+  
+  .travel-agency-landing-page .card-12 {
+    border-radius: 16px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 24px 1px;
+    width: 370px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .image-5 {
+    box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.02), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.015), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.012), 0px 20px 13px 0px rgba(0, 0, 0, 0.01), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.008), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.005);
+    border-radius: 16px;
+    background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 369px;
+    height: 327px;
+  }
+  
+  .travel-agency-landing-page .upper-content-4 {
+    margin: 0 24.1px 16px 26px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 319px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .rome-italty {
+    margin-right: 16px;
+    width: 164px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .k-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.333;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .footer-content-3 {
+    margin: 0 24.2px 0 27.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 317.3px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-19 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .navigation {
+    margin: 3.9px 14.5px 4.1px 0;
+    display: flex;
+    width: 18.8px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-31 {
+    width: 18.8px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .days-trip {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-20 {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-15 {
+    border-radius: 10px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 4px 8.2px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .container-12 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .card-22 {
+    box-shadow: 0px 16px 80px 0px rgba(254, 147, 94, 0.2);
+    border-radius: 16px;
+    background: #FEFCFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 24px 1px;
+    width: 370px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .image-6 {
+    border-radius: 16px;
+    background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 369px;
+    height: 327px;
+  }
+  
+  .travel-agency-landing-page .upper-content-5 {
+    margin: 0 25.8px 16px 26px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 319px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .london-uk {
+    margin-right: 16px;
+    width: 164px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .k-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.333;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .footer-content-4 {
+    margin: 0 24.4px 0 26px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 319px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-21 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .navigation-1 {
+    margin: 3.9px 18px 4.1px 0;
+    display: flex;
+    width: 18.8px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-32 {
+    width: 18.8px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .days-trip-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-22 {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-16 {
+    border-radius: 10px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 4px 9.4px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .container-13 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .card-32 {
+    border-radius: 16px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 24px 1px;
+    width: 370px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .image-7 {
+    border-radius: 16px;
+    background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 369px;
+    height: 327px;
+  }
+  
+  .travel-agency-landing-page .upper-content-6 {
+    margin: 0 24.1px 16px 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .osaka-japan {
+    margin-right: 16px;
+    width: 164px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #222222;
+  }
+  
+  .travel-agency-landing-page .k-3 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.333;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .footer-content-5 {
+    margin: 0 24.2px 0 27.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 317.3px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-23 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .navigation-2 {
+    margin: 3.9px 18px 4.1px 0;
+    display: flex;
+    width: 18.8px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-33 {
+    width: 18.8px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .days-trip-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-24 {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .star-17 {
+    border-radius: 10px;
+    background: url('../assets/images/star_1.png') 50% / cover no-repeat;
+    margin: 4px 8.2px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .container-14 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-25 {
+    position: relative;
+    margin-left: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .best-vacation-plan {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.333;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .travel-agency-landing-page .best-vacation-plan {
+    margin: 0 45.1px 14px 43.4px;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.125;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .plan-your-perfect-vacation-with-our-travel-agency-choose-among-hundreds-of-all-inclusive-offers {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-18-px-font-family, 'Poppins');
+    font-weight: var(--paragraph-18-px-font-weight, 400);
+    font-size: var(--paragraph-18-px-font-size, 18px);
+    line-height: var(--paragraph-18-px-line-height, 1.778);
+    color: #666666;
+  }
+  
+  .travel-agency-landing-page .slider-btn-1 {
+    position: relative;
+    margin: 0 0 24px 1058px;
+    display: flex;
+    flex-direction: row;
+    width: 112px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .btn-21 {
+    border-radius: 20px;
+    background: #FA7436;
+    position: relative;
+    display: flex;
+    padding: 20px 12px 18px 12px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .arrow-32 {
+    background: var(--primary-o, #FFFFFF);
+    width: 16px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .btn-11 {
+    border-radius: 20px;
+    background: #FEFCFB;
+    position: relative;
+    margin-right: 32px;
+    display: flex;
+    padding: 20px 12px 18px 12px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .arrow-33 {
+    background: rgba(153, 153, 153, 0.5);
+    width: 16px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .people-about-us {
+    position: relative;
+    display: flex;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-34 {
+    position: absolute;
+    top: 29px;
+    right: 440.4px;
+    width: 31.6px;
+    height: 28.3px;
+  }
+  
+  .travel-agency-landing-page .element-3 {
+    position: absolute;
+    top: 56px;
+    right: 319.4px;
+    width: 168.6px;
+    height: 188.1px;
+  }
+  
+  .travel-agency-landing-page .client-2 {
+    box-shadow: 0px 10px 30px 0px rgba(34, 34, 34, 0.35);
+    border-radius: 10px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    position: relative;
+    margin-top: 124px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px 0 22px 34px;
+    width: 502px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .on-the-windows-talking-painted-pasture-yet-its-express-parties-use-sure-last-upon-he-same-as-knew-next-of-believed-or-diverted-no {
+    margin-bottom: 44px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2;
+    color: #4E4E73;
+  }
+  
+  .travel-agency-landing-page .chris-thomas {
+    opacity: 0.5;
+    margin-bottom: 6px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .ceo-of-red-button {
+    opacity: 0.5;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .client-1 {
+    position: absolute;
+    top: 120px;
+    right: 489px;
+    padding-left: 37px;
+    height: 279px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .testimonail {
+    margin-bottom: 34px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    white-space: pre;
+    font-family: var(--content-16-x-font-family, 'Poppins');
+    font-weight: var(--content-16-x-font-weight, 500);
+    font-size: var(--content-16-x-font-size, 16px);
+    line-height: var(--content-16-x-line-height, 2);
+    color: var(--color-b-1, #444444);
+  }
+  
+  .travel-agency-landing-page .image-8 {
+    border-radius: 34px;
+    background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 68px;
+    height: 68px;
+  }
+  
+  .travel-agency-landing-page .mike-taylor {
+    margin-bottom: 5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .lahore-pakistan {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-26 {
+    margin: 0 195px 88px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .our-clients-send-us-bunch-of-smilies-with-our-services-and-we-love-them {
+    margin: 0 22.8px 32px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2;
+    color: var(--paragraph, #666666);
+    white-space: pre;
+  }
+  
+  .heading {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.333;
+    text-transform: lowercase;
+    color: var(--primary-o, #FA7436);
+  }
+  
+  .heading-sub1 {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.333;
+    text-transform: lowercase;
+  }
+  
+  .travel-agency-landing-page .heading {
+    margin-bottom: 4px;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.125;
+    text-transform: lowercase;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .slider-btn-2 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 112px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .btn-22 {
+    border-radius: 20px;
+    background: #FA7436;
+    position: relative;
+    display: flex;
+    padding: 20px 12px 18px 12px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .arrow-34 {
+    background: var(--primary-o, #FFFFFF);
+    width: 16px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .btn-12 {
+    border-radius: 20px;
+    background: #FEFCFB;
+    position: relative;
+    margin-right: 32px;
+    display: flex;
+    padding: 20px 12px 18px 12px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .arrow-35 {
+    background: rgba(153, 153, 153, 0.5);
+    width: 16px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .blog-1 {
+    background: #FEFCFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 120px 0;
+    ;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .card-13 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-27 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .july-272021 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #999999;
+  }
+  
+  .travel-agency-landing-page .the-amazing-difference-ayear-of-travelling {
+    margin-bottom: 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .image-9 {
+    border-radius: 8px;
+    background: url('../assets/images/image.png') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 270px;
+    height: 270px;
+  }
+  
+  .travel-agency-landing-page .card-23 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-28 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .july-2720211 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #999999;
+  }
+  
+  .travel-agency-landing-page .travel-far-enough-you-meet-yourself {
+    margin-bottom: 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .image-10 {
+    border-radius: 8px;
+    background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 270px;
+    height: 270px;
+  }
+  
+  .travel-agency-landing-page .card-33 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-29 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .july-2720212 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #999999;
+  }
+  
+  .travel-agency-landing-page .how-to-save-money-while-visiting-africa {
+    margin-bottom: 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .image-11 {
+    border-radius: 8px;
+    background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 270px;
+    height: 270px;
+  }
+  
+  .travel-agency-landing-page .card-41 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-30 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .july-2720213 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #999999;
+  }
+  
+  .travel-agency-landing-page .reflections-on-5-months-of-travel-time-to-hang {
+    margin-bottom: 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .image-12 {
+    border-radius: 8px;
+    background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 270px;
+    height: 270px;
+  }
+  
+  .get-update-with-latest-blog {
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.333;
+    color: #FA7436;
+  }
+  
+  .travel-agency-landing-page .get-update-with-latest-blog {
+    margin: 0 5.1px 54px 0;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.125;
+    color: #000000;
+  }
+  
+  .travel-agency-landing-page .slider {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    width: 54px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .ellipse-32 {
+    border-radius: 5px;
+    background: var(--color-off-1, #E5E5E5);
+    margin: 2px 0;
+    width: 10px;
+    height: 10px;
+  }
+  
+  .travel-agency-landing-page .ellipse-33 {
+    border-radius: 7px;
+    background: #FA7436;
+    width: 14px;
+    height: 14px;
+  }
+  
+  .travel-agency-landing-page .ellipse-34 {
+    border-radius: 5px;
+    background: var(--color-off-1, #E5E5E5);
+    margin: 2px 0;
+    width: 10px;
+    height: 10px;
+  }
+  
+  .travel-agency-landing-page .footer {
+    position: relative;
+    display: flex;
+    padding-top: 210px;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .content-31 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .company {
+    margin-right: 130.3px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .company-1 {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .about-1 {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .careers {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .logistic {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .privacy-policy {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .contact {
+    margin: 0 130.8px 42px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .contact-1 {
+    margin: 0 10px 32px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .help-faq {
+    margin-bottom: 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .press {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .affilates {
+    margin-right: 12.1px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .more {
+    margin-bottom: 42px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .more-1 {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 1.245;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .press-centre {
+    margin-bottom: 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .our-blog {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .low-fare-tips {
+    margin-right: 0.7px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.444;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .content-32 {
+    margin-bottom: 34px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .social {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 176px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .social-1 {
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 4px 0;
+    display: flex;
+    padding: 13.7px 12.7px 13.7px 11.7px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-40 {
+    width: 15.6px;
+    height: 12.7px;
+  }
+  
+  .travel-agency-landing-page .social-2 {
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 4px 26px 4px 0;
+    display: flex;
+    padding: 15.6px 17.1px 12px 17.1px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .facebook-icon {
+    width: 5.7px;
+    height: 12.4px;
+  }
+  
+  .travel-agency-landing-page .social-3 {
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 24px;
+    background: #FA7436;
+    position: relative;
+    margin-right: 22px;
+    display: flex;
+    padding: 14.9px 14.9px 16px 16px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .instagram-1 {
+    display: flex;
+    width: 17.1px;
+    height: 17.1px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .group-3 {
+    width: 17.1px;
+    height: 17.1px;
+  }
+  
+  .travel-agency-landing-page .book-your-trip-in-minute-get-full-control-for-much-longer {
+    margin-bottom: 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 2;
+    color: #666666;
+  }
+  
+  .travel-agency-landing-page .logo-1 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .trabook-1 {
+    margin-right: 10.6px;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    line-height: 1;
+    color: var(--primary-b, #222222);
+  }
+  
+  .travel-agency-landing-page .vector-44 {
+    margin: 3px 0 2px 0;
+    width: 19px;
+    height: 19px;
+  }
+  
+  .travel-agency-landing-page .content-33 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1172px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .terms-conditions {
+    opacity: 0.8;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .copyright-trabook-2022-all-rights-reserved {
+    opacity: 0.8;
+    margin-right: 12px;
+    width: 347px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--paragraph, #666666);
+  }
+  
+  .travel-agency-landing-page .border {
+    background: rgba(153, 153, 153, 0.56);
+    margin: 0 0 39px 2px;
+    width: 1170px;
+    height: 0px;
+  }
+  
+  .travel-agency-landing-page .subscribe {
+    border-radius: 16px;
+    background: #FA7436;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 9px 0 80px 0;
+    width: 1170.2px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .element-4 {
+    position: absolute;
+    left: 3px;
+    bottom: 0px;
+    width: 361px;
+    height: 480px;
+  }
+  
+  .travel-agency-landing-page .group-42 {
+    position: absolute;
+    left: -0.2px;
+    top: 0px;
+    width: 389.4px;
+    height: 397.2px;
+  }
+  
+  .travel-agency-landing-page .element-5 {
+    margin-bottom: 213.9px;
+    width: 112.2px;
+    height: 113.1px;
+  }
+  
+  .travel-agency-landing-page .element-5 {
+    margin-bottom: 213.9px;
+    width: 112.2px;
+    height: 113.1px;
+  }
+  
+  .travel-agency-landing-page .content-34 {
+    margin: 71px 95px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .subscribe-and-get-exclusive-deals-offer {
+    margin: 0 10.7px 64px 14.7px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 48px;
+    color: #FFFFFF;
+  }
+  
+  .travel-agency-landing-page .subscribe-1 {
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 9px 9px 22px;
+    width: 674px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .mail {
+    margin: 13px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .enter-your-mail {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--color-off, #999999);
+  }
+  
+  .travel-agency-landing-page .group-46 {
+    position: relative;
+    margin: 4px 8px 4px 0;
+    display: flex;
+    padding: 5.3px 4.4px 6.7px 3.6px;
+    width: 18.7px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .vector-5 {
+    border-radius: 1px;
+    position: relative;
+    width: 10.7px;
+    height: 4px;
+  }
+  
+  .travel-agency-landing-page .rectangle-22 {
+    border-radius: 5px;
+    border: 1px solid var(--color-off, #999999);
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 18.7px;
+    height: 16px;
+  }
+  
+  .travel-agency-landing-page .subscribe-btn {
+    border-radius: 8px;
+    background: var(--primary-o, #FA7436);
+    display: flex;
+    justify-content: center;
+    padding: 13px 0.8px 13px 0;
+    width: 132px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .subscribe-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  
+  .travel-agency-landing-page .container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-1 {
+    background: #F7F8FC;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 326px 0 48px 0;
+    width: 1920px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-2 {
+    margin-bottom: 45px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-3 {
+    margin: 0 3.1px 40px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1168.9px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-4 {
+    box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.02), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.015), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.012), 0px 20px 13px 0px rgba(0, 0, 0, 0.01), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.008), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.005);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 28px 0 34px 34px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-5 {
+    margin: 0 0 64px 246.9px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  
+  .travel-agency-landing-page .container-6 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    width: 1170px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-7 {
+    margin-bottom: 56px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-8 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-9 {
+    box-shadow: 0px 16px 80px 0px rgba(254, 147, 94, 0.2);
+    border-radius: 10px;
+    background: #FEFCFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 32px;
+    width: 270px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-10 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    width: 1170px;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-11 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-12 {
+    background: #F7F8FC;
+    position: relative;
+    display: flex;
+    padding: 120px 65px 120px 0;
+    width: 1920px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .travel-agency-landing-page .container-13 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  
+  /* General Section Styling */
+  .deals-section {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #ffffff;
+    /* Adjust the background color */
+  }
+  
+  .section-title h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: "Volkhov";
+  }
+  
+  .section-title h2 span {
+    color: #ff5722;
+    /* Primary color */
+  }
+  
+  .section-title p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  /* Cards Styling */
+  .cards-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 20px;
+    flex-wrap: wrap;
+    /* Ensure cards wrap on smaller screens */
+  }
+  
+  .deal-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    overflow: hidden;
+    flex: 1 1 calc(25% - 20px);
+    /* Responsive flexbox grid */
+    min-width: 200px;
+    position: relative;
+  }
+  
+  .deal-card img {
+    width: 270px;
+    height: 290px;
+  }
+  
+  .deal-info {
+    padding: 20px;
+  }
+  
+  .deal-info h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .deal-info p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .old-price {
+    text-decoration: line-through;
+    color: #bbb;
+  }
+  
+  .new-price {
+    color: #ff5722;
+    font-weight: bold;
+  }
+  
+  .book-now {
+    position: absolute;
+    bottom: 215px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .cards-container {
+      flex-direction: column;
+      gap: 30px;
+    }
+  
+    .deal-card {
+      flex: 1 1 100%;
+      /* Make each card take full width */
+    }
+  }
+  
+  
+  /* vacation plane */
+  
+  /* Vacation Plan Section */
+  .vacation-plan {
+    text-align: center;
+    max-width: 1170px;
+    margin: 0 auto;
+  }
+  
+  .vacation-plan .content h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .vacation-plan .content h2 span {
+    color: #ff6347;
+  }
+  
+  .vacation-plan .content p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  /* Vacation Grid */
+  .vacation-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  /* Vacation Card */
+  .vacation-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .vacation-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .vacation-card img {
+    width: 270px;
+    height: 290px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .vacation-card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .vacation-card .trip-details {
+    font-size: 16px;
+    color: #999;
+    margin-bottom: 20px;
+  }
+  
+  .vacation-card .price {
+    font-size: 20px;
+    color: #ff6347;
+    font-weight: bold;
+  }
+  
+  .image {
+    left: 50%;
+    position: absolute;
+    top: 58%;
+  }
+  
+  .image1 {
+    height: 50px;
+    width: 2%;
+    left: 52%;
+    position: absolute;
+    top: 27%;
+  }
+  
+  .image2 {
+    height: 50px;
+    width: 2%;
+    left: 50%;
+    position: absolute;
+    top: 52%;
+  }
+  
+  .image3 {
+    height: 50px;
+    width: 2%;
+    left: 75%;
+    position: absolute;
+    top: 40%;
+  }
+  
+  .text1 {
+    position: absolute;
+    font-size: 33px;
+    top: 25%;
+    left: 20%;
+  }
+  
+  .journey-span {
+    color: #FA7436;
+  }
+  
+  .text2 {
+    position: absolute;
+    font-size: 18px;
+    line-height: 40px;
+    width: 497px;
+    height: 120px;
+    top: 65%;
+    /* left: 20%; */
+  
+  }
+  
+  .button1 {
+    background-color: white;
+    color: #FA7436;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 3px;
+    border-color: #FA7436;
+    font-weight: bold0;
+    transition: baackground-color 0.5s;
+    top: 120%;
+    left: 1%;
+    position: absolute;
+  }
