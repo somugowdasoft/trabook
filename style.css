@@ -2757,8 +2757,8 @@
     height: 113.1px;
   }
   
-  .travel-agency-landing-page .element-5 {
-    margin-bottom: 213.9px;
+  .travel-agency-landing-page .elements-5 {
+    margin-bottom: 140px;
     width: 112.2px;
     height: 113.1px;
   }
@@ -3125,10 +3125,20 @@
   
   /* Vacation Grid */
   .vacation-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
     gap: 20px;
+    flex-wrap: wrap;
   }
+
+  /* Responsive Design */
+@media screen and (max-width: 768px) {
+  .vacation-grid {
+      flex-direction: column;
+      align-items: center;
+  }
+}
   
   /* Vacation Card */
   .vacation-card {
@@ -3151,17 +3161,22 @@
   }
   
   .vacation-card h3 {
+    display: flex;
+    justify-content: space-between;
     font-size: 24px;
     margin-bottom: 10px;
   }
   
   .vacation-card .trip-details {
+    display: flex;
+    justify-content: space-between;
     font-size: 16px;
     color: #999;
     margin-bottom: 20px;
   }
   
   .vacation-card .price {
+
     font-size: 20px;
     color: #ff6347;
     font-weight: bold;
